@@ -1,0 +1,89 @@
+/* for 768 px max */ 
+.mobile-call a {
+        font-size: var(--fluid-min-scale);
+    }
+/* for mobile call global */
+.mobile-call a {
+    font-size: var(--fluid-min-scale);
+}
+.areas-footer p {
+    font-size: 1.1rem;
+
+    for max 481     
+.areas-footer p {
+        font-size: clamp(0.7rem, 2.3vw + 0.4rem, 1.2rem);
+    }
+    button main - font-size: clamp(0.85rem, 2vw, 1rem);
+    cta primary clamp(0.9rem, 2.2vw, 1.1rem)
+
+    lang-btn clamp(0.7rem, 1.6vw, 0.85rem);
+    nav-link clamp(0.85rem, 1.8vw, 1rem);
+    desktop clamp(0.85rem, 2vw, 1rem);
+    banner h2 font-size: clamp(1.6rem, 6vw, 3rem);
+    feature h3 font-size: clamp(1.1rem, 3.5vw, 1.6rem);
+    serv card h3 clamp(1.1rem, 3.5vw, 1.5rem);
+    price-card h3 font-size: clamp(1.1rem, 3.5vw, 1.5rem);
+    price card li span first-child font-size: clamp(0.8rem, 1.8vw, 0.95rem);
+    price card price clamp(0.78rem, 3vw, 0.93rem);
+    
+    ???? .price-card.compact li { padding: 0.5rem 0; }
+.price-card.compact span:first-child { font-size: 0.95rem; }
+.price-card.compact .price {
+    padding: 0.2rem 0.8rem;
+    font-size: 0.9rem;
+
+    price overlay h3 clamp(0.7rem, 4vw, 1.2rem);
+    review card h4 clamp(0.9rem, 2vw, 1rem);
+    .reviews-cta .button font-size: clamp(0.8rem, 3.8vw, 1.3rem);
+    seo-cont clamp(1.3rem, 4vw, 2rem);
+    seo feature h3 clamp(0.95rem, 2.5vw, 1.08rem);
+}area group h3 font-size: 1.2rem;
+area list li  font-size: 0.9rem;
+faq question font-size: clamp(0.9rem, 2.2vw, 1rem);
+footer section h2 font-size: clamp(1.2rem, 3.5vw, 1.6rem);
+.footer-section p, .footer-section a {
+    font-size: clamp(0.8rem, 1.8vw, 0.95rem); 
+    .contact h3 {font-size: 1.3rem;
+    .contact p, .contact a {
+    font-size: clamp(0.8rem, 1.8vw, 0.95rem);
+    .footer-links a { font-size: 1.1rem;
+        hours strong font-size: 1.2rem;
+        social a font-size: 1.5rem;
+        copyright font-size: 0.9rem;
+ !!!!!!  MAX 360 px     .topbar .logo-text { font-size: clamp(0.5rem, 4.2vw + 0.32rem, 1.5rem) !important;
+                .topbar .lang-btn { font-size: clamp(0.4rem, 2vw + 0.2rem, 1.5rem) !important;
+                    .footer-grid h2 { 
+                font-size: clamp(1.4rem, 4.5vw + 0.44rem, 1.18rem);
+            }   .footer-links a {
+                font-size: clamp(0.73rem, 2.4vw + 0.4rem, 1.15rem);
+    }
+ !!!!!! MAX 300 .price-card li span:first-child {
+        font-size: clamp(0.2rem, 4vw, 0.8rem);   
+           .price-card .price {
+        font-size: clamp(0.7rem, 4vw, 0.9rem);
+         .review-card h4 {
+        font-size: clamp(0.7rem, 3vw, 0.9rem);
+    }
+    .stars {
+        font-size: clamp(0.7rem, 2.6vw + 0.4rem, 0.9rem);
+!!!!!! MIN 300 MAX 575 {
+       .footer-grid h2 {
+        font-size: clamp(1.5rem, 4.6vw + 0.48rem, 1.62rem);
+    }
+    .footer-links a {
+        font-size: clamp(0.75rem, 2.45vw + 0.45rem, 1.162rem) !important;
+    }
+!!!!! MIN 361 MAX 654 
+.logo-text {
+        font-size: clamp(0.7rem, 4.6vw + 0.3rem, 1.7rem) !important;
+!!!!! MIN 575 MAX 654px
+   .footer-grid h2 {
+        font-size: clamp(1.624rem, 4.7vw + 0.48rem, 1.75rem);
+    }        
+!!!!! max 768 
+    .mobile-call a {
+        font-size: var(--fluid-min-scale);
+    }
+!!!!! min 1201 
+   .nav-link {
+        font-size: clamp(0.85rem, 1vw + 0.23rem, 1.2rem);
