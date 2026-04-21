@@ -909,8 +909,11 @@ a:hover {
     overflow: hidden;
     margin-bottom: auto;
 }
-#reviews h2, header > p {
-    text-align: left;
+#reviews h2, header>p {
+    text-align: center;
+}
+#reviews header>p {
+    text-align: center;
 }
 .reviews-slider {
     position: relative;

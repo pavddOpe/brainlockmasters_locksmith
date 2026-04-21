@@ -101,7 +101,7 @@ const translations = {
         // Reviews Section
         'reviews.title': 'Opinie klientów',
         'reviews.subtitle': 'Codziennie budujemy zaufanie',
-        'reviews.cta': 'Zobacz więcej opinii na Google Maps i podziel się swoją!',
+        'reviews.cta': 'Opinie naszych klientów – zapraszamy do dodawania ich bezpośrednio w Google Maps!',
         
         // Areas
         'areas.title': 'Obsługujemy cały Wrocław i okolice',
@@ -269,7 +269,7 @@ const translations = {
         // Reviews Section
         'reviews.title': 'Відгуки клієнтів',
         'reviews.subtitle': 'Щодня здобуваємо довіру',
-        'reviews.cta': 'Перегляньте більше відгуків на Google Maps та поділіться своїм!',
+        'reviews.cta': 'Відгуки наших клієнтів - запрошуємо залишати Ваші відгуки безпосередньо на нашій сторінці Google Maps!',
         
         // Areas
         'areas.title': 'Обслуговуємо увесь Вроцлав та його околиці',
