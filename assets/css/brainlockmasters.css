@@ -182,6 +182,9 @@ a:hover {
     display: inline-block;
     margin: 0 auto;
 }
+.actions.bottom li {
+    text-align: center;
+}
 
 /* Topbar Navigation */
 .topbar {
@@ -1604,12 +1607,12 @@ a:hover {
     opacity: 0.4;
 }
 #services .bg-icon:nth-child(3) { 
-    bottom: 3%; 
+    bottom: 1%; 
     right: 78%; 
-    transform: rotate(10deg);
+    transform: rotate(30deg);
     animation-delay: 0.5s;
     font-size: 7.9rem;
-    opacity: 0.4;
+    opacity: 0.3;
 }
 
 #prices .bg-icon:nth-child(1) {
