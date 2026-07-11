@@ -82,6 +82,24 @@
 		  gtag('config', 'AW-18084168114');
 		</script>
 
+		<!-- Event snippet for Kliknij, aby połączyć (1) conversion page -->
+		<script>
+		function gtag_report_conversion(url) {
+		var callback = function () {
+			if (typeof(url) != 'undefined') {
+			window.location = url;
+			}
+		};
+		gtag('event', 'conversion', {
+			'send_to': 'AW-18084168114/wD7CCK_O_MscELKDmq9D',
+			'event_callback': callback
+		});
+		return false;
+		}
+		</script>
+
+
+
 </head>
 <body class="is-preload">
 
