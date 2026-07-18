@@ -2707,6 +2707,7 @@ a:hover {
     }
     .blog-wrap p {
         margin-bottom: 1.2rem;
+        z-index: 1;
     }
     .blog-wrap ul, .blog-wrap ol {
         padding-left: 1.5rem;
@@ -2715,9 +2716,44 @@ a:hover {
     .blog-wrap li {
         margin-bottom: 0.5rem;
     }
+    .blog-icon {
+        position: absolute;
+        font-size: 6rem;
+        opacity: 0.2;   
+        pointer-events: none;
+        user-select: none;
+        z-index: 0;
+        animation: float 20s infinite ease-in-out;
+        filter: drop-shadow(0 0 10px var(--accent-primary));
+    }
+    
+    .icon-key {
+        top: 50%;
+        opacity: 0.35;
+        left: 14%;
+    }
+    .icon-lock {
+        top: 10%;
+        opacity: 0.25;
+        left: 88%;
+    }
+    .icon-car {
+        top: 160%;
+        opacity: 0.12;
+        left: 92%;
+    }
+    .pos-hero { top: 45%;  left: 5%; }
+    .pos-step1 { top: -200%; left: 95%; }
+    .pos-step2 { top: 160%; left: 75%; }
+    .pos-step3 { top: 110%; left: 15%; }
+    .pos-step4 { top: 200%; left: 5%; }
+    .pos-step5 { top: -100%; left: 65%; }
+    .pos-step6 { top: -150%; left: 85%; }
+    .pos-step7 { top: 60%; left: 5%; }
+
     .tip-box {
         background: var(--bg-card);
-        border-left: 4px solid #1a73e8;
+        border-left: 4px solid var(--primary-lightblue);
         padding: 1rem 1.25rem;
         border-radius: 4px;
         margin: 1.5rem 0;
