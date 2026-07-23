@@ -112,6 +112,13 @@ const translations = {
         'areas.footer': '🚗 Dojazd w 15-20 minut w każdą dzielnicę Wrocławia!',
         'areas.footer1':'📞 Zadzwoń - jesteśmy tuż za rogiem!',
 
+        // Blog
+        'blog.title': 'Poradnik ślusarski',
+        'blog.subtitle': 'Praktyczne porady na wypadek awarii zamka lub zatrzaśniętych drzwi',
+        'blog.title2': 'Awaria zamka we Wrocławiu – co robić gdy nie możesz wejść do domu?',
+        'blog.subtitle2': 'Złamany klucz, zacięty zamek czy zerwana wkładka? Sprawdź krok po kroku, co robić w takiej sytuacji.',
+        'blog.route': 'Czytaj więcej →',
+
         // FAQ //
         'faq.title': 'Najczęściej zadawane pytania',
         'faq.subtitle': 'Wszystko, co chcesz wiedzieć o naszych usługach ślusarskich',
@@ -157,6 +164,7 @@ const translations = {
         'footer.services': 'Nasze usługi',
         'footer.prices': 'Cennik',
         'footer.projects': 'Przykładowe realizacje',
+        'footer.blog': 'Poradnik ślusarksi',
         'footer.faq-section': 'Najczęściej zadawane pytania',
         'footer.reviews': 'Klienci, którzy nam zaufali',
         'footer.forYou': 'Jesteśmy dla Ciebie',
@@ -278,6 +286,13 @@ const translations = {
         'areas.footer': '🚗 Доїзд протягом 15-20 хвилин до кожного району Вроцлава!',
         'areas.footer1':'📞 Телефонуйте - Ми одразу за рогом!',
 
+        // Blog
+        'blog.title': 'Слюсарський порадник',
+        'blog.subtitle': 'Практичні поради на випадок поломки замка або затріснутих дверей',
+        'blog.title2': 'Поломка замка у Вроцлаві - що робити, коли не може увійти до дому?',
+        'blog.subtitle2': 'Зламався ключ, заблоковувася замок чи розірвалась серцевина? Перевір, яких кроків дотримуватись у таких ситуаціях.',
+        'blog.route': 'Читати більше →',
+
         // FAQ //
         'faq.title': 'Найчастіші питання',
         'faq.subtitle': 'Усе, що Ви хочете знати про наші слюсарні послуги',
@@ -323,6 +338,7 @@ const translations = {
         'footer.services': 'Наші послуги',
         'footer.prices': 'Ціни',
         'footer.projects': 'Приклади робіт',
+        'footer.blog': 'Слюсарський порадник',
         'footer.faq-section': 'Найчастіші питання',
         'footer.reviews': 'Відгуки клієнтів',
         'footer.forYou': 'Ми працюємо для Вас',
