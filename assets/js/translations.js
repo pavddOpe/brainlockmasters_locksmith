@@ -13,6 +13,11 @@ const translations = {
         'nav.reviews': 'Opinie',
         'nav.contact': 'Kontakt',
         
+        // Cookies
+        'cookie.text': 'Używamy plików cookie, aby zapewnić najlepsze działanie strony i mierzyć skuteczność naszych reklam. Możesz zaakceptować wszystkie pliki cookie lub dostosować swój wybór.',
+        'cookie.accept': 'Akceptuj wszystkie',
+        'cookie.reject': 'Odrzuć',
+
         // Banner
         'banner.title': 'NIE MOŻESZ OTWORZYĆ DRZWI?',
         'banner.subtitle': 'PROFESJONALNY ŚLUSZAR AWARYJNY WROCŁAW I OKOLICE!',
@@ -187,6 +192,11 @@ const translations = {
         'nav.reviews': 'Відгуки клієнтів',
         'nav.contact': "Зв'язатись",
         
+        // Cookies
+        'cookie.text': 'Ми використовуємо файли cookie, щоб забезпечити найкращу роботу сайту та вимірювати ефективність нашої реклами. Ви можете прийняти всі файли cookie або відхилити.',
+        'cookie.accept': 'Прийняти всі',
+        'cookie.reject': 'Відхилити',
+
         // Banner
         'banner.title': 'НЕ МОЖЕТЕ ВІДЧИНИТИ ДВЕРІ?',
         'banner.subtitle': 'ПРОФЕСІЙНИЙ АВАРІЙНИЙ СЛЮСАР ВРОЦЛАВ ТА ОКОЛИЦІ!',

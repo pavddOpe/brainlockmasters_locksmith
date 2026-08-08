@@ -66,6 +66,20 @@
 		]
 		}
 		</script>
+
+		<!-- Google Consent Mode -->
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'ad_user_data': 'denied',
+			'ad_personalization': 'denied',
+			'analytics_storage': 'denied',
+			'wait_for_update': 500
+		});
+		</script>
+
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-25R4T72WKW"></script>
 		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18084168114"></script>
@@ -80,7 +94,7 @@
 		  gtag('config', 'AW-18084168114');
 		</script>
 
-		<!-- Event snippet for Kliknij, aby połączyć (1) conversion page -->
+		<!-- Event snippet for Kontakt Telefoniczny conversion page -->
 		<script>
 		function gtag_report_conversion(url) {
 		var callback = function () {
@@ -89,7 +103,9 @@
 			}
 		};
 		gtag('event', 'conversion', {
-			'send_to': 'AW-18084168114/wD7CCK_O_MscELKDmq9D',
+			'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+			'value': 1.0,
+			'currency': 'PLN',
 			'event_callback': callback
 		});
 		return false;
@@ -99,6 +115,20 @@
 
 </head>
 <body class="is-preload">
+
+	<!-- Cookie Consent Banner -->
+	<div id="cookie-consent-banner" class="cookie-banner" role="dialog" aria-label="Zgoda na pliki cookie">
+		<div class="cookie-banner-content">
+			<p class="cookie-text" data-i18n="cookie.text">
+				Używamy plików cookie, aby zapewnić najlepsze działanie strony i mierzyć skuteczność naszych reklam. 
+				Możesz zaakceptować wszystkie pliki cookie lub dostosować swój wybór.
+			</p>
+			<div class="cookie-buttons">
+				<button id="cookie-reject" class="cookie-btn cookie-btn-secondary" data-i18n="cookie.reject">Odrzuć</button>
+				<button id="cookie-accept" class="cookie-btn cookie-btn-primary" data-i18n="cookie.accept">Akceptuj wszystkie</button>
+			</div>
+		</div>
+	</div>
 
 	<!-- Top Nav Bar -->
 	<header class="topbar" role="banner">
@@ -129,7 +159,24 @@
 					</ul>
 				</nav>
 				<a href="tel:+48883464614" class="button desktop-call" aria-label="Zadzwoń do nas">📞 883 464 614</a>
-			</div>	
+			</div>
+			<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+			<script>
+			function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+				window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+				'value': 1.0,
+				'currency': 'PLN',
+				'event_callback': callback
+			});
+			return false;
+			}
+			</script>
 		</div>
 	</header>
 
@@ -145,6 +192,24 @@
 					📞 WEZWIJ SPECJALISTĘ
 				</a>
 			</div>
+			<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+			<script>
+			function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+				window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+				'value': 1.0,
+				'currency': 'PLN',
+				'event_callback': callback
+			});
+			return false;
+			}
+			</script>
+
 		</section>	
 				
 		<!-- Banner/Hero Section -->
@@ -179,6 +244,24 @@
 					<span>Sejfów</span>
 				</p>
 			</div>
+			<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+			<script>
+			function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+				window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+				'value': 1.0,
+				'currency': 'PLN',
+				'event_callback': callback
+			});
+			return false;
+			}
+			</script>
+
 		</section>
 
 		<!--Why Us Section-->
@@ -277,7 +360,23 @@
 					<ul class="actions bottom">
 						<li><a href="tel:+48883464614" class="button cta-primary" data-i18n="services.cta">📞 ZADZWOŃ: 883 464 614</a></li>
 					</ul>
-				
+				<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+				<script>
+				function gtag_report_conversion(url) {
+				var callback = function () {
+					if (typeof(url) != 'undefined') {
+					window.location = url;
+					}
+				};
+				gtag('event', 'conversion', {
+					'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+					'value': 1.0,
+					'currency': 'PLN',
+					'event_callback': callback
+				});
+				return false;
+				}
+				</script>
 			</div>
 		</section>
 
@@ -447,6 +546,24 @@
 					<a href="tel:+48883464614" class="button cta-primary" data-i18n="seo-features.cta">📞 ZADZWOŃ TERAZ - 883 464 614</a>
 				</p>
 			</div>
+			<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+			<script>
+			function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+				window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+				'value': 1.0,
+				'currency': 'PLN',
+				'event_callback': callback
+			});
+			return false;
+			}
+			</script>
+
 		</section>
 
 		<!-- Service Areas Section -->
@@ -562,7 +679,7 @@
         <div class="blog-grid">
             <article class="blog-card">
                 <h3><a href="blog/awaria-zamka-we-wroclawiu-co-robic-gdy-nie-mozesz-wejsc-do-domu" data-i18n="blog.title2">Awaria zamka we Wrocławiu – co robić gdy nie możesz wejść do domu?</a></h3>
-                <p data-i18n="blog-subtitle2">Złamany klucz, zacięty zamek czy zerwana wkładka? Sprawdź krok po kroku, co robić w takiej sytuacji.</p>
+                <p data-i18n="blog.subtitle2">Złamany klucz, zacięty zamek czy zerwana wkładka? Sprawdź krok po kroku, co robić w takiej sytuacji.</p>
                 <a href="blog/awaria-zamka-we-wroclawiu-co-robic-gdy-nie-mozesz-wejsc-do-domu" class="read-more" data-i18n="blog.route">Czytaj więcej →</a>
             </article>
         </div>
@@ -646,6 +763,25 @@
 				<div class="faq-footer">
 					<p data-i18n="faq.more">Masz więcej pytań? <a href="tel:+48883464614" class="faq-phone">📞 Zadzwoń do nas - chętnie pomożemy!</a></p>
 				</div>
+
+				<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+				<script>
+				function gtag_report_conversion(url) {
+				var callback = function () {
+					if (typeof(url) != 'undefined') {
+					window.location = url;
+					}
+				};
+				gtag('event', 'conversion', {
+					'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+					'value': 1.0,
+					'currency': 'PLN',
+					'event_callback': callback
+				});
+				return false;
+				}
+				</script>
+
 			</div>
 		</section>
 
@@ -777,6 +913,24 @@
 			<a href="tel:+48883464614" aria-label="Zadzwoń teraz" data-i18n="mobile.call">
 				📞 ZADZWOŃ TERAZ - 883 464 614
 			</a>
+			<!-- Event snippet for Kontakt Telefoniczny conversion page -->
+			<script>
+			function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof(url) != 'undefined') {
+				window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-18084168114/nNSRCPDz-9wcELKDmq9D',
+				'value': 1.0,
+				'currency': 'PLN',
+				'event_callback': callback
+			});
+			return false;
+			}
+			</script>
+
 		</div>
 
 	<!-- Lightbox For Images -->
@@ -784,5 +938,35 @@
 			<button class="close-lightbox" aria-label="Zamknij">×</button>
 			<img id="lightbox-img" src="" alt="">
 		</div>
+
+	<!-- For Cookies choices -->
+		<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			const banner = document.getElementById('cookie-consent-banner');
+			const savedConsent = localStorage.getItem('cookie-consent');
+
+			if (!savedConsent) {
+				banner.classList.add('visible');
+			}
+
+			function updateConsent(granted) {
+				gtag('consent', 'update', {
+					'ad_storage': granted ? 'granted' : 'denied',
+					'ad_user_data': granted ? 'granted' : 'denied',
+					'ad_personalization': granted ? 'granted' : 'denied',
+					'analytics_storage': granted ? 'granted' : 'denied'
+				});
+				localStorage.setItem('cookie-consent', granted ? 'accepted' : 'rejected');
+				banner.classList.remove('visible');
+			}
+
+			document.getElementById('cookie-accept').addEventListener('click', () => updateConsent(true));
+			document.getElementById('cookie-reject').addEventListener('click', () => updateConsent(false));
+
+			if (savedConsent === 'accepted') {
+				updateConsent(true);
+			}
+		});
+		</script>
 	</body>
 </html>
