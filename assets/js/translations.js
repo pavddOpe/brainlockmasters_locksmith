@@ -122,7 +122,10 @@ const translations = {
         'blog.subtitle': 'Praktyczne porady na wypadek awarii zamka lub zatrzaśniętych drzwi',
         'blog.title2': 'Awaria zamka we Wrocławiu – co robić gdy nie możesz wejść do domu?',
         'blog.subtitle2': 'Złamany klucz, zacięty zamek czy zerwana wkładka? Sprawdź krok po kroku, co robić w takiej sytuacji.',
+        'blog.title3':'Zatrzasnąłeś klucze w samochodzie we Wrocławiu? Spokojnie, sprawdź co robić',
+        'blog.subtitle3':'To się zdarza częściej niż myślisz. Sprawdź krok po kroku, jak bezpiecznie rozwiązać ten problem.',
         'blog.route': 'Czytaj więcej →',
+        'blog.viewall':'Zobacz wszystkie artykuły →',
 
         // FAQ //
         'faq.title': 'Najczęściej zadawane pytania',
@@ -300,8 +303,11 @@ const translations = {
         'blog.title': 'Слюсарський порадник',
         'blog.subtitle': 'Практичні поради на випадок поломки замка або затріснутих дверей',
         'blog.title2': 'Поломка замка у Вроцлаві - що робити, коли не може увійти до дому?',
-        'blog.subtitle2': 'Зламався ключ, заблоковувася замок чи розірвалась серцевина? Перевір, яких кроків дотримуватись у таких ситуаціях.',
+        'blog.subtitle2': 'Зламався ключ, заблоковувася замок чи розірвалась серцевина? Перевірте, яких кроків дотримуватись у таких ситуаціях.',
+        'blog.title3':'Захлопнулись двері авто у Вроцлаві, а ключі залишились всередині? Спокійно, перевірте, як діяти',
+        'blog.subtitle3':'Це трапляється частіше, ніж ви думаєте. Перевірте крок за кроком, як безпечно вирішити цю проблему.',
         'blog.route': 'Читати більше →',
+        'blog.viewall':'Переглянь усі статті →',
 
         // FAQ //
         'faq.title': 'Найчастіші питання',
