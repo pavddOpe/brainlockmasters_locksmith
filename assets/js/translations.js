@@ -114,7 +114,7 @@ const translations = {
         'areas.fabryczna': '📍 Fabryczna',
         'areas.middle': '📍 Śródmieście',
         'areas.surrounding': '📍 Okolice Wrocławia',
-        'areas.footer': '🚗 Dojazd w 15-20 minut w każdą dzielnicę Wrocławia!',
+        'areas.footer': '🚗 Dojazd w 15-30 minut w każdą dzielnicę Wrocławia!',
         'areas.footer1':'📞 Zadzwoń - jesteśmy tuż za rogiem!',
 
         // Blog
@@ -133,7 +133,7 @@ const translations = {
         'faq.q1':'🔓 Ile kosztuje awaryjne otwieranie drzwi we Wrocławiu?',
         'faq.a1':'Ceny zaczynają się od 149 zł za otwieranie standardowych zamków. Ostateczna cena zależy od rodzaju zamka, pory dnia i lokalizacji. Zawsze podajemy cenę przed rozpoczęciem pracy - bez żadnych niespodzianek!',
         'faq.q2':'⏱️ Jak szybko możecie dojechać?',
-        'faq.a2':'Średni czas dojazdu to 15-20 minut w obrębie Wrocławia. W sytuacjach awaryjnych staramy się być na miejscu jeszcze szybciej. Pracujemy cały tydzień, więc zawsze możesz liczyć na nasze wsparcie.',
+        'faq.a2':'Średni czas dojazdu to 15-30 minut w obrębie Wrocławia. W sytuacjach awaryjnych staramy się być na miejscu jeszcze szybciej. Pracujemy cały tydzień, więc zawsze możesz liczyć na nasze wsparcie.',
         'faq.q3':'🔧 Czy otwieracie drzwi bez uszkodzeń?',
         'faq.a3':'Tak! W 95% przypadków otwieramy drzwi bez żadnych uszkodzeń, śladów włamania czy zniszczeń. Używamy profesjonalnych narzędzi i metod, które pozwalają zachować Twój sprzęt w nienaruszonym stanie.',
         'faq.q4':'🚗 Otwieracie również samochody?',
@@ -147,9 +147,9 @@ const translations = {
         // SEO Content
         'seo-content.title': 'Profesjonalny Ślusarz Wrocław 7 dni w tygodniu - Ekspert w Awaryjnym Otwieraniu Drzwi',
         'seo-content.desc': 'BrainLockMasters to profesjonalna firma ślusarska we Wrocławiu. Specjalizujemy się w awaryjnym otwieraniu drzwi, zamków, samochodów oraz sejfów, cały tydzień w godzinach od 7:00 do 22:00. Nasz zespół doświadczonych ślusarzy dysponuje nowoczesnym sprzętem, który pozwala nam na szybkie i bezinwazyjne rozwiązanie problemu - bez wyważania drzwi czy wybijania szyb w aucie.',
-        'seo-content1.desc': 'Działamy na terenie całego Wrocławia i okolic - Krzyki, Psie Pole, Fabryczna, Śródmieście, a także podwrocławskie miejscowości. Średni czas dojazdu to zaledwie 15-20 minut od momentu zgłoszenia. Niezależnie od tego, czy zatrzasnęły się Tobie klucze w mieszkaniu, złamał Ci się klucz w zamku, czy potrzebujesz pilnie otworzyć samochód - jesteśmy gotowi do działania tu i teraz!',
+        'seo-content1.desc': 'Działamy na terenie całego Wrocławia i okolic - Krzyki, Psie Pole, Fabryczna, Śródmieście, a także podwrocławskie miejscowości. Średni czas dojazdu to zaledwie 15-30 minut od momentu zgłoszenia. Niezależnie od tego, czy zatrzasnęły się Tobie klucze w mieszkaniu, złamał Ci się klucz w zamku, czy potrzebujesz pilnie otworzyć samochód - jesteśmy gotowi do działania tu i teraz!',
         'seo-feature1.title': '⚡ Szybka reakcja',
-        'seo-feature1.desc': 'Dojazd w zaledwie 15 minut na terenie Wrocławia',
+        'seo-feature1.desc': 'Dojazd w zaledwie 15-30 minut na terenie Wrocławia',
         'seo-feature2.title': '🔒 Bez uszkodzeń',
         'seo-feature2.desc': 'Otwieramy bez śladu w 95% przypadków',
         'seo-feature3.title': '💰 Transparentne ceny',
@@ -296,7 +296,7 @@ const translations = {
         'areas.fabryczna': '📍 Fabryczna',
         'areas.middle': '📍 Śródmieście',
         'areas.surrounding': '📍 Okolice',
-        'areas.footer': '🚗 Доїзд протягом 15-20 хвилин до кожного району Вроцлава!',
+        'areas.footer': '🚗 Доїзд протягом 15-30 хвилин до кожного району Вроцлава!',
         'areas.footer1':'📞 Телефонуйте - Ми одразу за рогом!',
 
         // Blog
@@ -315,7 +315,7 @@ const translations = {
         'faq.q1':'🔓 Скільки коштує аварійне відкриття дверей у Вроцлаві?',
         'faq.a1':'Ціни стартують від 149 zł за відкривання стандартних замків. Остаточна ціна залежить від виду замка, пори доби і локалізації. Ми щоразу оголошуємо ціну перед початком роботи - без жодних несподіванок!',
         'faq.q2':'⏱️ Як швидко можете доїхати?',
-        'faq.a2':'Середній час доїзду це 15-20 хвилин у межах Вроцлава. У випадку аварійних ситуацій намагаємось бути на місці ще швидше. Ми працюємо увесь тиждень, то ж Ви можете покладатись на нас.',
+        'faq.a2':'Середній час доїзду це 15-30 хвилин у межах Вроцлава. У випадку аварійних ситуацій намагаємось бути на місці ще швидше. Ми працюємо увесь тиждень, то ж Ви можете покладатись на нас.',
         'faq.q3':'🔧 Чи відчиняєте двері без пошкоджень?',
         'faq.a3':'Так! У 95? випадків відкриваємо двері без слідів пошкодєень, злому чи знищень. Ми використовуємо професійні інструменти і методи, що дозволяє зберегти Ваші речі неушкодженими.',
         'faq.q4':'🚗 Чи також відкриваєте автомобілі?',
@@ -329,9 +329,9 @@ const translations = {
         // SEO Content
         'seo-content.title': 'Професійний Слюсар у Вроцлаві 7 днів на тиждень - Експерт у Аварійному Відкритті Дверей',
         'seo-content.desc': 'BrainLockMasters це професійна слюсарська фірма у Вроцлаві. Спеціалізуємося у аварійному відкритті дверей, замків, автомоболів, а також сейфів протягом усього тижня, в годинах від 7:00 до 22:00. Наша команда досвідчених слюсарів використовує сучасне обладнання, що дозволяє нам швидке і неінвазивне вирішення проблеми - без потреби зіпсування дверей чи вибитого скла в автомобілі.',
-        'seo-content1.desc': 'Працюємо у межах усього міста Вроцлав та його околиць - Krzyki, Psie Pole, Fabryczna, Centrum, а також місцевості поблизу Вроцлава. Середній час доїзду всього 15-20 хвилин від момент отримання зголошення. Незалежно від того, чи затріснулись Вам ключі у помешканні, зламався ключ у замку, чи потрібно швидко відкрити автівку - ми готові до роботи просто тут і зараз!',
+        'seo-content1.desc': 'Працюємо у межах усього міста Вроцлав та його околиць - Krzyki, Psie Pole, Fabryczna, Centrum, а також місцевості поблизу Вроцлава. Середній час доїзду всього 15-30 хвилин від момент отримання зголошення. Незалежно від того, чи затріснулись Вам ключі у помешканні, зламався ключ у замку, чи потрібно швидко відкрити автівку - ми готові до роботи просто тут і зараз!',
         'seo-feature1.title': '⚡ Швидке реагування',
-        'seo-feature1.desc': 'Доїжджаємо протягом 15 хвилин у межах усього міста Вроцлав',
+        'seo-feature1.desc': 'Доїжджаємо протягом 15-30 хвилин у межах усього міста Вроцлав',
         'seo-feature2.title': '🔒 Без пошкоджень',
         'seo-feature2.desc': 'Відкриваємо без ушкодження дверей у 95% випадків',
         'seo-feature3.title': '💰 Прозора цінова політика',
