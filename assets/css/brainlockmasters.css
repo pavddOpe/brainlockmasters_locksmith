@@ -1267,18 +1267,22 @@ a:hover {
     margin-bottom: 0.75rem;
     display:flow-root;
     text-align: start;
+    margin-top: 1rem;
+}
+#blog-archive .blog-card h3 {    
+    min-height: 6.5em;
 }
 .blog-card h3 a {
     text-decoration: none;
     color: var(--accent-primary);
-    text-align:justify;
 }
 .blog-card p {
     color: var(--text-main);
     line-height: 1.6;
     margin-bottom: 1rem;
-    text-align: justify;
     flex-grow: 1;
+    display:flow-root;
+    
 }
 .blog-card .read-more {
     gap: 0.3rem;
